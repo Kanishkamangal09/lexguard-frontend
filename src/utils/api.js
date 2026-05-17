@@ -1,4 +1,4 @@
-const API_BASE = 'https://gem-back-239360131780.europe-west1.run.app:8000';
+const API_BASE = 'https://lex-backend-931n.onrender.com';
 
 export const analyzeContract = async (file) => {
   const formData = new FormData();
