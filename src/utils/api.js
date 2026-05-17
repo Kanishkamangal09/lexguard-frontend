@@ -1,4 +1,4 @@
-const API_BASE = 'https://lex-backend-931n.onrender.com';
+const API_BASE = 'https://lex-backend-931n.onrender.com:8000';
 
 export const analyzeContract = async (file) => {
   const formData = new FormData();
