@@ -1,4 +1,4 @@
-const API_BASE = '';
+const API_BASE = 'https://gem-back-239360131780.europe-west1.run.app:8000';
 
 export const analyzeContract = async (file) => {
   const formData = new FormData();
